@@ -1,0 +1,8 @@
+---- coarsen_kl Matches (7 in 3 files) ----
+Coarsen_kl.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\klspiff):void      coarsen_kl(graph, nvtxs, nedges, using_vwgts, using_ewgts, term_wgts,
+Coarsen_kl.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\klspiff):	printf("<Entering coarsen_kl, step=%d, nvtxs=%d, nedges=%d, vmax=%d>\n",
+Coarsen_kl.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\klspiff):    coarsen_kl(cgraph, cnvtxs, cnedges, COARSEN_VWGTS, COARSEN_EWGTS, cterm_wgts,
+Coarsen_kl.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\klspiff):	printf(" Leaving coarsen_kl, step=%d\n", step);
+Coarsen_klv.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\klvspiff):	printf("<Entering coarsen_kl, step=%d, nvtxs=%d, nedges=%d, vmax=%d>\n",
+Divide.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\submain):    void      make_connected(), print_connected(), coarsen_kl(), eigensolve();
+Divide.c (f:\books\graph partition\chaco-2.2\chaco-2.2\code\submain):	    coarsen_kl(graph, nvtxs, nedges, using_vwgts, using_ewgts, term_wgts,
